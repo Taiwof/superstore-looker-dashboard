@@ -1,2 +1,2 @@
-# superstore-bi-dashboard
-Interactive BI dashboard analyzing sales, orders, and customer performance using Looker Studio and Power BI.
+# superstore-looker-dashboard
+Interactive Looker Studio dashboard analyzing Superstore sales and category performance.
